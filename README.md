@@ -18,6 +18,7 @@
         "lint": "eslint 'src/**/*.js' --quiet --fix"
       }
 
-#### Then you can copy files from the repository to your project for using the tools
+#### Then you can copy files (.eslintrc, .huskyrc, .lintstagedrc, .prettierrc) from the repository to your project for using the tools
 
+##
 ### If you have any questions feel free to [contact me](mailto:bodyaperhalyuk@gmail.com)
