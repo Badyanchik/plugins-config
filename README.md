@@ -15,7 +15,7 @@
 #### Secondly, you need to add `lint` command to `scripts` block in your `package.json`:
     "scripts": {
         // your commands
-        "lint": "eslint 'src/**/*.js' --quiet --fix"
+        "lint": "eslint 'src/**/*.{js,jsx}' --quiet --fix"
       }
 
 #### Then you can copy files (.eslintrc, .huskyrc, .lintstagedrc, .prettierrc) from the repository to your project for using the tools
